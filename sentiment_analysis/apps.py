@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class SentimentAnalysisConfig(AppConfig):
-    name = 'sentiment_analysis'
+    name = "sentiment_analysis"
